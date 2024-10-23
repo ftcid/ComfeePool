@@ -74,5 +74,5 @@ To install the library just execute:
 ## Release Notes
 **0.1.1** - Initial release
 
-# Credits
+## Credits
  - Midea-inventor-lib - https://pypi.org/project/midea-inventor-lib/
